@@ -1,0 +1,9 @@
+[submodule "enemybar2"]
+	path = addons/enemybar2
+	url = git@github.com:delphyne/enemybar2.git
+[submodule "Balloon"]
+	path = addons/Balloon
+	url = git@github.com:delphyne/Balloon.git
+[submodule "pop"]
+	path = addons/pop
+	url = git@github.com:delphyne/pop.git

@@ -467,6 +467,13 @@
     <support>https://discord.gg/aUrHCvk</support>
   </addon>
   <addon>
+    <name>pop</name>
+    <author>delphyne</author>
+    <description>Track placeholders and spawns</description>
+    <bugtracker>https://github.com/delphyne/pop/issues</bugtracker>
+    <support>https://github.com/delphyne/pop/issues</support>
+  </addon>
+  <addon>
     <name>porter</name>
     <author>Giuliano Riccio (Zohno@Phoenix - R.I.P)</author>
     <description>Shows the slips' items highlighting those that are stored.</description>
